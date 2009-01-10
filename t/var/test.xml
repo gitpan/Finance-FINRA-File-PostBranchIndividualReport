@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<PostBranchIndividualReport>
+  <Criteria firmCRDNumber="12345" postingDate="2009-01-06">
+  </Criteria>
+  <BrnchOfcs>
+    <BrnchOfc brnchPK="123456" bllngCd="BERRY" dstrtPK="11BO" oprnlStCd="ACTV">
+      <Addr strt1="481 BERRYBERRY ST." city="MANCHESTER" state="NH" cntry="USA" postlCd="03104">
+      </Addr>
+      <OthrNms>
+        <OthrNm Nm="LOLITA &amp; CO. INVESTMENTS, LLC">
+        </OthrNm>
+        <OthrNm Nm="Humbert &amp; Humbert. INVESTMENTS, LLC">
+        </OthrNm>
+      </OthrNms>
+      <AsctdIndvls>
+        <AsctdIndvl indvlPK="1234567" ndpndCntrcrFl="Y" sprvPICFl="Y">
+          <Nm last="HAZE" first="DOLORES">
+          </Nm>
+        </AsctdIndvl>
+      </AsctdIndvls>
+    </BrnchOfc>
+    <BrnchOfc brnchPK="234567" bllngCd="BLUE" dstrtPK="9PH" oprnlStCd="ACTV">
+      <Addr strt1="500 BLUE PLAINS RD." city="WILLIAMSBURG" state="VA" cntry="USA" postlCd="23188">
+      </Addr>
+      <OthrNms>
+        <OthrNm Nm="FOO &amp; BAR LLC">
+        </OthrNm>
+      </OthrNms>
+      <AsctdIndvls>
+        <AsctdIndvl indvlPK="2345678" ndpndCntrcrFl="Y" sprvPICFl="N">
+          <Nm last="BAR" first="JOHN">
+          </Nm>
+        </AsctdIndvl>
+        <AsctdIndvl indvlPK="3456789" ndpndCntrcrFl="Y" sprvPICFl="Y">
+          <Nm last="FOO" first="JACK" mid="HENRY" suf="Jr">
+          </Nm>
+        </AsctdIndvl>
+      </AsctdIndvls>
+    </BrnchOfc>
+  </BrnchOfcs>
+</PostBranchIndividualReport>
